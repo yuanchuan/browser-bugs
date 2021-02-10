@@ -3,12 +3,14 @@
 * Fails to inerit `grid-template-*` property.  [CodePen](https://codepen.io/yuanchuan/pen/WNeWVbO), [Twitter](https://twitter.com/yuanchuan23/status/1177644437645611008)
 * Can't read `text-decoration` in shorthand.
 * Fails to recognize embedded SVG filter in CSS.
+* The url(#id) is not recognizable if element with the id inside Web Component.
 * <del>CSS animation not working for pseudo elements inside Web Component. [Twitter](https://twitter.com/yuanchuan23/status/1048768113720750080).</del>
 
 
 ## Chrome
 
 * Fails to read embedded `url()` rule for `clip-path` property. [CodePen](https://codepen.io/yuanchuan/pen/d31f35f2eb9efe8b72a6639f598f0f0a).
+
 
 ## Web Component
 

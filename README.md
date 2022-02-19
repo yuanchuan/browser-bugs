@@ -10,7 +10,7 @@
 ## Chrome
 
 * Fails to read data-uri format for `clip-path` property. [CodePen](https://codepen.io/yuanchuan/pen/d31f35f2eb9efe8b72a6639f598f0f0a).
-* Using `innerHTML` to write 485 nested divs with `absolute` style and `psuedo` element will crash browser. [CodePen](https://codepen.io/yuanchuan/pen/xxPYeEx).
+* Using `innerHTML` to write 485 nested divs with `absolute` style and `pseudo` element will crash browser. [CodePen](https://codepen.io/yuanchuan/pen/xxPYeEx).
 
 
 ## Web Component
